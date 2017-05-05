@@ -1,0 +1,100 @@
+{
+   "nav_icon": "loc2.png",
+   "firstPhotoId":"2",
+   "firstPhotoRotation":108,
+   "photos":{
+      "1":{
+         "rotationOffset": 0,
+         "uri":"Sante Hotel & Spa.jpg",
+         "tooltips":[
+            {
+               "text":"Grand Hotel Vila Panorama",
+               "rotationY": 0,
+               "linkedPhotoId":"2"
+            },
+            {
+               "text":"AlMirqab Al Terrace Lounge Restaurant",
+               "rotationY": 60,
+               "linkedPhotoId":"3"
+            },
+            {
+               "text":"Bismillah Hotel Bedroom",
+               "rotationY": 150,
+               "linkedPhotoId":"4"
+            }
+         ]
+      },
+      "2":{
+         "rotationOffset": 0,
+         "uri":"GrandHotelVilaPanorama.jpg",
+         "tooltips":[
+            {
+               "text":"Sante Hotel & Spa",
+               "rotationY": -90,
+               "linkedPhotoId":"1"
+            },
+            {
+               "text":"AlMirqab Al Terrace Lounge Restaurant",
+               "rotationY": 40.525,
+               "linkedPhotoId":"3"
+            },
+            {
+               "text":"Bismillah Hotel Bedroom",
+               "rotationY": -30.525,
+               "linkedPhotoId":"4"
+            },
+            {
+               "type": "textblock",
+               "title": "The Chester",
+               "text": "An American restaurant, bar, and private event space located in The Gansevoort Hotel in New York City, The Chester is designed to bring guests together at any time of day. It features a vibrant bar scene and a lively dining ara, as well as an exclusive boutique nightclub and outdoor beirgarten.",
+               "attribution": "360 Photos courtesy of Oyster.com, text from TheChester.com",
+               "rotationY": -10,
+               "width": 1.5,
+               "height": 1.5
+            }
+         ]
+      },
+      "3":{
+         "rotationOffset": 0,
+         "uri":"AlMirqab_Al_Terrace_Lounge_Restaurant.jpg",
+         "tooltips":[
+            {
+               "text":"Sante Hotel & Spa",
+               "rotationY": 21.347,
+               "linkedPhotoId":"1"
+            },
+            {
+               "text":"Grand Hotel Vila Panorama",
+               "rotationY": 117.441,
+               "linkedPhotoId":"2"
+            },
+            {
+               "text":"Bismillah Hotel Bedroom",
+               "rotationY": -151.392,
+               "linkedPhotoId":"4"
+            }
+         ]
+      },
+      "4":{
+         "rotationOffset": 0,
+         "uri":"Bismillah_Hotel-Bedroom_2.jpg",
+         "tooltips":[
+            {
+               "text":"Sante Hotel & Spa",
+               "rotationY": -11.33789063,
+               "linkedPhotoId":"1"
+            },
+            {
+               "text":"Grand Hotel Vila Panorama",
+               "rotationY": -112.2363281,
+               "linkedPhotoId":"2"
+            },
+            {
+               "text":"AlMirqab Al Terrace Lounge Restaurant",
+               "rotationY": -50.2363281,
+               "linkedPhotoId":"3"
+            }
+         ]
+      }
+   }
+}
